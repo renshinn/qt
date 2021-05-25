@@ -1,5 +1,4 @@
 # qt
 
 qt study
-
-qt main branch
+qt mercy main and branch
